@@ -26,11 +26,9 @@ if not len(sys.argv[1:]):
                   \/       \/ \/        \/            \/       
 
 
-Bienvenido a JORY.JY
+Bienvenido a JORY
 
-Para comenzar a utilizar este script, proporcione uno o más comandos
-argumentos de línea y su valor correspondiente, cuando corresponda.
-Para mostrar todas las opciones disponibles, use -h o --help.
+Para comenzar a utilizar este script, proporcione uno o más comandos argumentos de línea y su valor correspondiente, cuando corresponda.Para mostrar todas las opciones disponibles, use -h o --help.
 
 Ejemplos:
 jory.py -h
